@@ -55,6 +55,7 @@ The model was trained to classify images into four categories:
 * Final optimized accuracy: **97%**
 
 Model tuning and data augmentation significantly improved performance, resulting in accurate and reliable predictions across unseen image folders.
+Link to the models: https://drive.google.com/drive/folders/1Gvnw6rDn4IwrHw9ckNtS5BsdCiUKGATj?usp=drive_link
 
 ---
 
